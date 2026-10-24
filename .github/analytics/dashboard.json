@@ -1,8 +1,8 @@
 {
   "repository": "shivampimple29/DBMS-sem4",
   "defaultBranch": "main",
-  "updatedAtUTC": "2026-10-24T07:46:37.637041+00:00",
-  "updatedAtIST": "2026-10-24 13:16:37 IST",
+  "updatedAtUTC": "2026-10-24T09:54:45.588900+00:00",
+  "updatedAtIST": "2026-10-24 15:24:45 IST",
   "trafficStatus": "token_required",
   "trafficMetrics": {
     "availableDaysCount": 5,
@@ -78,5 +78,13 @@
     "lastSuccessfulUpdate": "2026-10-24T07:41:11.897972+00:00"
   },
   "forksCount": 0,
-  "supporters": []
+  "supporters": [
+    {
+      "username": "radhaursekar12",
+      "profileUrl": "https://github.com/radhaursekar12",
+      "avatarUrl": "https://github.com/radhaursekar12.png?size=96",
+      "role": "Community Star",
+      "year": "2026"
+    }
+  ]
 }
